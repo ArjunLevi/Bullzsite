@@ -113,9 +113,7 @@ const Home =()=>{
                         <div className='flex-col text-white mt-5'>
                            News
                         </div>
-                        <div className='flex-col text-white mt-5'>
-                           Contact us
-                        </div>
+
                     </div>
                
                 </div>
@@ -126,5 +124,6 @@ const Home =()=>{
        
     )
 }
+
 
 export default Home;
